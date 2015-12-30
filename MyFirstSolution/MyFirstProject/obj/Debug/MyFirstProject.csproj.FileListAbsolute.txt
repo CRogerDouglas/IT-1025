@@ -4,3 +4,6 @@ c:\users\betty\Desktop\MyFirstSolution\MyFirstProject\bin\Debug\MyFirstProject.p
 c:\users\betty\Desktop\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.csprojResolveAssemblyReference.cache
 c:\users\betty\Desktop\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.exe
 c:\users\betty\Desktop\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.pdb
+C:\Users\Betty\Desktop\IT-1050\MyFirstSolution\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\Betty\Desktop\IT-1050\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\Betty\Desktop\IT-1050\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.pdb
